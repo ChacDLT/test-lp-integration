@@ -10,3 +10,12 @@ seventh
 9th
 10th
 11th
+12th
+13th
+14ths
+15
+sixteen
+Seven Teen
+This awesomefix
+Another cool fix
+This is neat
