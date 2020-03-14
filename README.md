@@ -13,3 +13,4 @@ This awesomefix
 Another cool fix
 This is neat
 Cool
+Awesomes
