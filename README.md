@@ -11,6 +11,3 @@ sixteen
 Seven Teen
 This awesomefix
 Another cool fix
-This is neat
-Cool
-Awesomes
