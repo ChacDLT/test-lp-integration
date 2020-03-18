@@ -12,4 +12,4 @@ second Edit
 6
 
 SUPERHOTTTTT
-Super Hot
+Super Hots
