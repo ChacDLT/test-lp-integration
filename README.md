@@ -5,5 +5,4 @@ second Edit
 4th edit
 5th edit
 6
-SUPERHOT
-Goal Simulator
+SUPER...HOT!!!
