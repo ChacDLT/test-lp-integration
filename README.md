@@ -11,6 +11,4 @@ second Edit
 
 6
 
-SUPERHOT
-
-Hello!!!
+SUPERHOTTTTT
